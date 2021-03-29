@@ -23,7 +23,7 @@ I'm a Full Stack Developer, looking for new challenges, I come from administrati
 - 👯 I’m looking to collaborate on new proyects related to climate change and finance.
 - 🤔 I’m looking for challenges!
 - 📙 Check out my  Resume, you have it in [English] and [Español] 
-- 🎉 Fun-Fact: I ❤️ Astrophysics, Space, Culture and History!!.. ofc I like games too duh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🎉 Fun-Fact: I ❤️ Philosophy, Space 🚀, Culture and History!!.. ofc I like games too duh <img src="https://media4.giphy.com/media/jM4bWFBKpSFeo/giphy.gif?cid=790b7611muzj1td0qi7gualt6bue9nzulmpmgqbwhlencqj0&rid=giphy.gif" width="30"> 
 
 
 
@@ -44,10 +44,7 @@ I'm a Full Stack Developer, looking for new challenges, I come from administrati
   
 </details>
 
-
-### 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ablue968&show_icons=true&line_height=21" alt="Defcon27's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablue968&theme=default&line_height=27&layout=compact" />
-</p>
+
 
