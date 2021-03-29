@@ -51,5 +51,6 @@ I'm a Full Stack Developer, looking for new challenges, I come from administrati
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ablue968&show_icons=true&line_height=21" alt="Defcon27's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablue968&theme=default&line_height=27&layout=compact" />
 
 
