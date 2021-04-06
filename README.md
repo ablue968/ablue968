@@ -25,7 +25,7 @@ I'm a Full Stack Developer, looking for new challenges, I come from administrati
 - 📙 Check out my  Resume, you have it in [English](https://github.com/ablue968/ablue968/blob/main/Jhon%20Pereira%20CV.pdf) and [Español](https://github.com/ablue968/ablue968/blob/main/Jhon%20Pereira%20CV%20(ES).pdf) 
 - 🎉 Fun-Fact: I ❤️ Philosophy, Space 🚀, Culture and History!!.. ofc I like games too duh <img src="https://media4.giphy.com/media/jM4bWFBKpSFeo/giphy.gif?cid=790b7611muzj1td0qi7gualt6bue9nzulmpmgqbwhlencqj0&rid=giphy.gif" width="45"> 
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=ablue968)
 
 <details>
   <summary>Some more stuff 😄</summary>
