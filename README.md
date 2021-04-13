@@ -2,7 +2,7 @@
 </h1>
 
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ablue968/)](https://github.com/Defcon27/) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ablue968/)](https://github.com/ablue968/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpereirad//)](https://www.linkedin.com/in/jpereirad/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ablue968@gmail.com)](mailto:ablue968@gmail.com)
 
