@@ -16,7 +16,7 @@ I'm a Full Stack Developer, looking for new challenges, I come from administrati
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently looking for my #1 Job as Developer
-- 🌱 I’m currently learning <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="30"> Native.
+- 🌱 I’m currently learning <img src="https://emojis.slackmojis.com/emojis/images/1620759626/38068/angular.png?1620759626" width="30"> with <img src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" width="30">.
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 
